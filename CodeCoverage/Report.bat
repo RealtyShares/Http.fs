@@ -1,1 +1,0 @@
-..\Tools\ReportGenerator_1.9.1.0\bin\ReportGenerator.exe -reports:"opencovertests.xml" -targetdir:"Report"
